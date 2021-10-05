@@ -12,6 +12,9 @@
   },
   "author": "rconduru",
   "license": "ISC",
+  "publishConfig": {
+    "@Rconduru:registry": "https://npm.pkg.github.com"
+  },
   "bugs": {
     "url": "https://github.com/Rconduru/git-repository-lib-test/issues"
   },
