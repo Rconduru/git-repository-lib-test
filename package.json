@@ -1,0 +1,19 @@
+{
+  "name": "@rconduru/git-repository-lib-test",
+  "version": "1.0.0",
+  "description": "test lib project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rconduru/git-repository-lib-test.git"
+  },
+  "author": "rconduru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rconduru/git-repository-lib-test/issues"
+  },
+  "homepage": "https://github.com/Rconduru/git-repository-lib-test#readme"
+}
